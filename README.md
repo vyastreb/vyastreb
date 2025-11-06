@@ -1,6 +1,7 @@
 ## Vladislav A. Yastrebov
-CNRS Research Scientist 
-Computational Mechanics • Contact Mechanics
+
++ CNRS Research Scientist 
++ Computational Mechanics • Contact Mechanics
 
 + 🔗 Website: [www.yastrebov.fr](https://www.yastrebov.fr)
 + 🔭 Research: Contact mechanics, surface roughness, FEM/BEM, multiphysics
